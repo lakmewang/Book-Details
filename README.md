@@ -13,7 +13,7 @@ git clone https://github.com/lakmewang/Book-Details.git
 
 cd Book-Details
 
-3. Backend Setup
+2. Backend Setup
 -Navigate to the Backend Folder
 
 cd backend
