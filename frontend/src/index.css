@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+  margin: 20px 0;
+}
+
+input[type="text"] {
+  padding: 10px;
+  margin-right: 10px;
+}
+
+button {
+  padding: 10px;
+  cursor: pointer;
+}
+
+.book-item {
+  display: flex;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  background-color: white;
+}
+
+.book-item img {
+  width: 100px;
+  height: 150px;
+  margin-right: 20px;
+}
+
+.book-item h3 {
+  margin: 0;
+}
+
+.book-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
